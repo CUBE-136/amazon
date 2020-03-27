@@ -53,7 +53,7 @@ a {
   background-size: 20px 20px;
 }
 .create input {
-  background-color: #ffa500;
+  background: linear-gradient(to bottom,#ffd700,#ffa500);
 }
 .agree {
   margin-bottom: 70px;
